@@ -1,0 +1,21 @@
+1. Polymorphism = many forms.
+
+2. An object which satisfy's more than one is-a relationship. Both managers and customers are people.
+
+3. Overloading and overriding.
+
+4. Infinite.
+
+5. A list of desktops and servers which both come under the IConnect interface.
+
+6. Contain instances of other classes that implement the desired functionality.
+
+7. Looking for code re-use and relationship between 2 classes is has-a. Car has a engine.
+
+8. In composition the child can't exist without the parent. In aggregate it can.
+
+9. Composition is more flexible than inheritance.
+
+10. The child objects also cease to exist.
+
+11. The child objects exist on their own.
